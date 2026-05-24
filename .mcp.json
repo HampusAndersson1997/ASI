@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ace3": {
+      "command": "C:\\Users\\J\\AppData\\Roaming\\npm\\ace.CMD",
+      "args": [
+        "mcp",
+        "start"
+      ]
+    }
+  }
+}

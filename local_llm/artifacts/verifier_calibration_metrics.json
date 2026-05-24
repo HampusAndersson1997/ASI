@@ -1,0 +1,40 @@
+{
+  "accepted_proposal_count": 1,
+  "created_at": "2026-05-23T06:01:44+00:00",
+  "details": [
+    {
+      "id": "calibration_001",
+      "score": {
+        "accepted": true,
+        "missing_fields": [],
+        "parsed": {
+          "claim": "Risk boundary terms can be expressed as prohibitions and mitigations.",
+          "evidence": [
+            "fact: risk boundaries often use do-not and mitigation language"
+          ],
+          "executable_abstraction": "validator: risk_boundary accepts risk, mitigation, do not, limit, block, and reject terms",
+          "expected_result": "accepted proposal count is 1",
+          "proposal": "Accept clear boundary language without requiring a single canonical keyword.",
+          "risk_boundary": "Do not claim success without evidence. Risk: false positives. Mitigation: reject weak evidence.",
+          "stop_condition": "stop if calibration fixture is rejected",
+          "verification_plan": [
+            "run score command",
+            "check accepted_proposal_count"
+          ]
+        },
+        "reasons": [],
+        "valid_json": true
+      }
+    }
+  ],
+  "prompt_ids": [
+    "calibration_001"
+  ],
+  "required_field_completion_rate": 1.0,
+  "responses_path": "/mnt/d/Sandbox/local_llm/data/verifier_calibration_responses.jsonl",
+  "status": "pass",
+  "total": 1,
+  "valid_json_count": 1,
+  "valid_json_rate": 1.0,
+  "verifier_version": "2026-05-23.risk-boundary-calibration"
+}

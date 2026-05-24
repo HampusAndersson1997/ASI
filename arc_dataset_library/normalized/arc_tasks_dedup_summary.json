@@ -1,0 +1,49 @@
+{
+  "input_records": 4245,
+  "deduped_records": 3445,
+  "duplicates_removed": 800,
+  "errors_count": 0,
+  "errors_sample": [],
+  "deduped_by_source": {
+    "MINI-ARC": 149,
+    "ARC-AGI-1": 800,
+    "unknown": 1200,
+    "ARC-AGI-2": 1120,
+    "ConceptARC": 176
+  },
+  "deduped_by_split": {
+    "unknown": 725,
+    "eval": 920,
+    "train": 1800
+  },
+  "deduped_by_source_split": {
+    "MINI-ARC/unknown": 149,
+    "ARC-AGI-1/eval": 400,
+    "ARC-AGI-1/train": 400,
+    "unknown/unknown": 400,
+    "unknown/eval": 400,
+    "unknown/train": 400,
+    "ARC-AGI-2/eval": 120,
+    "ARC-AGI-2/train": 1000,
+    "ConceptARC/unknown": 176
+  },
+  "unknown_parent_dirs_top_30": [
+    [
+      "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\human_language\\LARC\\dataset\\tasks_json",
+      400
+    ],
+    [
+      "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\human_language\\LARC\\collection\\data\\evaluation",
+      400
+    ],
+    [
+      "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\human_language\\LARC\\collection\\data\\training",
+      400
+    ]
+  ],
+  "outputs": {
+    "dedup_index": "C:\\Users\\J\\Sandbox\\arc_dataset_library\\normalized\\arc_tasks_index_dedup.jsonl",
+    "duplicates": "C:\\Users\\J\\Sandbox\\arc_dataset_library\\normalized\\arc_tasks_duplicates.jsonl",
+    "summary": "C:\\Users\\J\\Sandbox\\arc_dataset_library\\normalized\\arc_tasks_dedup_summary.json"
+  }
+}

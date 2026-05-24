@@ -1,0 +1,2382 @@
+﻿[
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like",
+        "Files":  177,
+        "MB":  339.28
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k",
+        "Files":  56,
+        "MB":  58.66
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k\\.cache",
+        "Files":  29,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k\\.cache\\huggingface",
+        "Files":  29,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k\\.cache\\huggingface\\download",
+        "Files":  27,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k\\.cache\\huggingface\\download\\data",
+        "Files":  16,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k\\.cache\\huggingface\\download\\subset_ids",
+        "Files":  4,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k\\data",
+        "Files":  16,
+        "MB":  58.61
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k\\subset_ids",
+        "Files":  4,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k_meta",
+        "Files":  56,
+        "MB":  279.66
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k_meta\\.cache",
+        "Files":  29,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k_meta\\.cache\\huggingface",
+        "Files":  29,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k_meta\\.cache\\huggingface\\download",
+        "Files":  27,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k_meta\\.cache\\huggingface\\download\\data",
+        "Files":  16,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k_meta\\.cache\\huggingface\\download\\subset_ids",
+        "Files":  4,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k_meta\\data",
+        "Files":  16,
+        "MB":  279.61
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k_meta\\subset_ids",
+        "Files":  4,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_code",
+        "Files":  65,
+        "MB":  0.96
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_code\\.github",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_code\\.github\\workflows",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_code\\assets",
+        "Files":  1,
+        "MB":  0.48
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_code\\cellarc",
+        "Files":  27,
+        "MB":  0.17
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_code\\cellarc\\eval",
+        "Files":  2,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_code\\cellarc\\generation",
+        "Files":  13,
+        "MB":  0.07
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_code\\cellarc\\visualization",
+        "Files":  6,
+        "MB":  0.04
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_code\\scripts",
+        "Files":  27,
+        "MB":  0.28
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_code\\scripts\\dataset",
+        "Files":  12,
+        "MB":  0.13
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_code\\scripts\\plots",
+        "Files":  13,
+        "MB":  0.14
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_code\\scripts\\test",
+        "Files":  1,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\arc_like\\cellarc_code\\tests",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional",
+        "Files":  46,
+        "MB":  259.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC",
+        "Files":  46,
+        "MB":  259.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\.cache",
+        "Files":  24,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\.cache\\huggingface",
+        "Files":  24,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\.cache\\huggingface\\download",
+        "Files":  22,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\.cache\\huggingface\\download\\all",
+        "Files":  2,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\.cache\\huggingface\\download\\assets",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\.cache\\huggingface\\download\\assets\\imgs",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\.cache\\huggingface\\download\\split_seed_1860",
+        "Files":  4,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\.cache\\huggingface\\download\\split_seed_1870",
+        "Files":  4,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\.cache\\huggingface\\download\\split_seed_1880",
+        "Files":  4,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\.cache\\huggingface\\download\\split_seed_1890",
+        "Files":  4,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\all",
+        "Files":  2,
+        "MB":  77.43
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\assets",
+        "Files":  1,
+        "MB":  0.87
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\assets\\imgs",
+        "Files":  1,
+        "MB":  0.87
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\split_seed_1860",
+        "Files":  4,
+        "MB":  45.18
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\split_seed_1870",
+        "Files":  4,
+        "MB":  45.16
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\split_seed_1880",
+        "Files":  4,
+        "MB":  45.14
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC\\split_seed_1890",
+        "Files":  4,
+        "MB":  45.23
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept",
+        "Files":  180,
+        "MB":  0.48
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC",
+        "Files":  180,
+        "MB":  0.48
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus",
+        "Files":  160,
+        "MB":  0.41
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\AboveBelow",
+        "Files":  10,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\Center",
+        "Files":  10,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\CleanUp",
+        "Files":  10,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\CompleteShape",
+        "Files":  10,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\Copy",
+        "Files":  10,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\Count",
+        "Files":  10,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\ExtendToBoundary",
+        "Files":  10,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\ExtractObjects",
+        "Files":  10,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\FilledNotFilled",
+        "Files":  10,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\HorizontalVertical",
+        "Files":  10,
+        "MB":  0.04
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\InsideOutside",
+        "Files":  10,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\MoveToBoundary",
+        "Files":  10,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\Order",
+        "Files":  10,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\SameDifferent",
+        "Files":  10,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\TopBottom2D",
+        "Files":  10,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\corpus\\TopBottom3D",
+        "Files":  10,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\editor",
+        "Files":  0,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\concept\\ConceptARC\\MinimalTasks",
+        "Files":  16,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\core",
+        "Files":  1934,
+        "MB":  9.44
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\core\\ARC-AGI-1",
+        "Files":  809,
+        "MB":  3.66
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\core\\ARC-AGI-1\\apps",
+        "Files":  7,
+        "MB":  0.04
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\core\\ARC-AGI-1\\apps\\css",
+        "Files":  2,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\core\\ARC-AGI-1\\apps\\img",
+        "Files":  2,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\core\\ARC-AGI-1\\apps\\js",
+        "Files":  2,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\core\\ARC-AGI-1\\data",
+        "Files":  800,
+        "MB":  3.61
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\core\\ARC-AGI-1\\data\\evaluation",
+        "Files":  400,
+        "MB":  2.24
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\core\\ARC-AGI-1\\data\\training",
+        "Files":  400,
+        "MB":  1.37
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\core\\ARC-AGI-2",
+        "Files":  1125,
+        "MB":  5.78
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\core\\ARC-AGI-2\\data",
+        "Files":  1122,
+        "MB":  5.76
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\core\\ARC-AGI-2\\data\\evaluation",
+        "Files":  120,
+        "MB":  1.31
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\core\\ARC-AGI-2\\data\\training",
+        "Files":  1000,
+        "MB":  4.44
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments",
+        "Files":  53,
+        "MB":  48.28
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments\\ARCLE",
+        "Files":  53,
+        "MB":  48.28
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments\\ARCLE\\agents",
+        "Files":  15,
+        "MB":  0.14
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments\\ARCLE\\agents\\models",
+        "Files":  6,
+        "MB":  0.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments\\ARCLE\\arcle",
+        "Files":  13,
+        "MB":  0.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments\\ARCLE\\arcle\\actions",
+        "Files":  4,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments\\ARCLE\\arcle\\arcs",
+        "Files":  0,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments\\ARCLE\\arcle\\arcs\\ARC",
+        "Files":  0,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments\\ARCLE\\arcle\\arcs\\Mini-ARC",
+        "Files":  0,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments\\ARCLE\\arcle\\envs",
+        "Files":  4,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments\\ARCLE\\arcle\\loaders",
+        "Files":  2,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments\\ARCLE\\arcle\\wrappers",
+        "Files":  2,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments\\ARCLE\\docs",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments\\ARCLE\\examples",
+        "Files":  4,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments\\ARCLE\\images",
+        "Files":  3,
+        "MB":  0.34
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\environments\\ARCLE\\tests",
+        "Files":  10,
+        "MB":  46.36
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human",
+        "Files":  45,
+        "MB":  470.7
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human\\h-arc",
+        "Files":  37,
+        "MB":  7.46
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human\\h-arc\\.vscode",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human\\h-arc\\analysis",
+        "Files":  11,
+        "MB":  1.42
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human\\h-arc\\arc_data",
+        "Files":  4,
+        "MB":  1.64
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human\\h-arc\\data",
+        "Files":  1,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human\\h-arc\\figures",
+        "Files":  5,
+        "MB":  4.34
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human\\h-arc\\models",
+        "Files":  3,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human\\h-arc\\results",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human\\h-arc\\src",
+        "Files":  5,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human\\h-arc\\survey",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human\\H-ARC-OSF",
+        "Files":  8,
+        "MB":  463.24
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human\\H-ARC-OSF\\osfstorage",
+        "Files":  8,
+        "MB":  463.24
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human\\H-ARC-OSF\\osfstorage\\data",
+        "Files":  4,
+        "MB":  462.66
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human\\H-ARC-OSF\\osfstorage\\survey",
+        "Files":  4,
+        "MB":  0.59
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language",
+        "Files":  1280,
+        "MB":  126.68
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC",
+        "Files":  1280,
+        "MB":  126.68
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\assets",
+        "Files":  1,
+        "MB":  0.17
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\bandit",
+        "Files":  5,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\collection",
+        "Files":  844,
+        "MB":  4.63
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\collection\\css",
+        "Files":  7,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\collection\\data",
+        "Files":  800,
+        "MB":  3.63
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\collection\\data\\evaluation",
+        "Files":  400,
+        "MB":  2.26
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\collection\\data\\training",
+        "Files":  400,
+        "MB":  1.37
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\collection\\explore",
+        "Files":  13,
+        "MB":  0.22
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\collection\\explore\\css",
+        "Files":  2,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\collection\\explore\\img",
+        "Files":  1,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\collection\\explore\\js",
+        "Files":  8,
+        "MB":  0.17
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\collection\\explore\\js\\sigma",
+        "Files":  4,
+        "MB":  0.12
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\collection\\img",
+        "Files":  10,
+        "MB":  0.54
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\collection\\js",
+        "Files":  11,
+        "MB":  0.17
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\dataset",
+        "Files":  408,
+        "MB":  121.62
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\dataset\\summary",
+        "Files":  5,
+        "MB":  1.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\dataset\\tasks_json",
+        "Files":  400,
+        "MB":  120.22
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\explore",
+        "Files":  19,
+        "MB":  0.23
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\explore\\css",
+        "Files":  4,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\explore\\img",
+        "Files":  1,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\explore\\js",
+        "Files":  12,
+        "MB":  0.18
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_language\\LARC\\explore\\js\\sigma",
+        "Files":  4,
+        "MB":  0.12
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories",
+        "Files":  9622,
+        "MB":  607.22
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset",
+        "Files":  9612,
+        "MB":  382.3
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files",
+        "Files":  9610,
+        "MB":  382.3
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\1",
+        "Files":  100,
+        "MB":  1.5
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\10",
+        "Files":  100,
+        "MB":  0.55
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\11",
+        "Files":  100,
+        "MB":  1.49
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\12",
+        "Files":  100,
+        "MB":  0.93
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\13",
+        "Files":  100,
+        "MB":  0.32
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\14",
+        "Files":  100,
+        "MB":  1.56
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\15",
+        "Files":  100,
+        "MB":  1.49
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\16",
+        "Files":  100,
+        "MB":  0.25
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\17",
+        "Files":  100,
+        "MB":  0.23
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\18",
+        "Files":  100,
+        "MB":  0.26
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\19",
+        "Files":  100,
+        "MB":  0.26
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\2",
+        "Files":  100,
+        "MB":  1.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\20",
+        "Files":  100,
+        "MB":  0.27
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\21",
+        "Files":  99,
+        "MB":  0.34
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\22",
+        "Files":  100,
+        "MB":  0.25
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\23",
+        "Files":  100,
+        "MB":  0.32
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\24",
+        "Files":  100,
+        "MB":  2.07
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\25",
+        "Files":  100,
+        "MB":  5.63
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\26",
+        "Files":  100,
+        "MB":  2.73
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\27",
+        "Files":  100,
+        "MB":  6.33
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\28",
+        "Files":  100,
+        "MB":  2.76
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\29",
+        "Files":  100,
+        "MB":  2.36
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\3",
+        "Files":  100,
+        "MB":  2.04
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\30",
+        "Files":  100,
+        "MB":  4.22
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\31",
+        "Files":  100,
+        "MB":  5.76
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\32",
+        "Files":  100,
+        "MB":  5.8
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\33",
+        "Files":  100,
+        "MB":  4.95
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\34",
+        "Files":  100,
+        "MB":  2.34
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\35",
+        "Files":  100,
+        "MB":  2.92
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\36",
+        "Files":  100,
+        "MB":  4
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\37",
+        "Files":  100,
+        "MB":  0.4
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\38",
+        "Files":  100,
+        "MB":  4.34
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\39",
+        "Files":  100,
+        "MB":  5.7
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\4",
+        "Files":  100,
+        "MB":  1.34
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\40",
+        "Files":  100,
+        "MB":  7.58
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\41",
+        "Files":  100,
+        "MB":  3.26
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\42",
+        "Files":  100,
+        "MB":  4.38
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\43",
+        "Files":  100,
+        "MB":  6.33
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\44",
+        "Files":  100,
+        "MB":  5.79
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\45",
+        "Files":  100,
+        "MB":  7.27
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\46",
+        "Files":  100,
+        "MB":  4.78
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\47",
+        "Files":  100,
+        "MB":  3.8
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\48",
+        "Files":  100,
+        "MB":  5.17
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\49",
+        "Files":  100,
+        "MB":  7.54
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\5",
+        "Files":  100,
+        "MB":  1.2
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\50",
+        "Files":  100,
+        "MB":  3.08
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\51",
+        "Files":  100,
+        "MB":  5.7
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\52",
+        "Files":  100,
+        "MB":  7.98
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\53",
+        "Files":  100,
+        "MB":  7.4
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\54",
+        "Files":  100,
+        "MB":  4.65
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\55",
+        "Files":  100,
+        "MB":  6.39
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\56",
+        "Files":  100,
+        "MB":  3.45
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\57",
+        "Files":  100,
+        "MB":  4.82
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\58",
+        "Files":  100,
+        "MB":  12.11
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\59",
+        "Files":  100,
+        "MB":  3.63
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\6",
+        "Files":  100,
+        "MB":  1.94
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\60",
+        "Files":  100,
+        "MB":  4.27
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\61",
+        "Files":  100,
+        "MB":  2.26
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\62",
+        "Files":  100,
+        "MB":  4.04
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\63",
+        "Files":  100,
+        "MB":  1.73
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\64",
+        "Files":  100,
+        "MB":  3.34
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\65",
+        "Files":  100,
+        "MB":  5.27
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\66",
+        "Files":  100,
+        "MB":  5.95
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\67",
+        "Files":  100,
+        "MB":  1.58
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\68",
+        "Files":  100,
+        "MB":  2.29
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\69",
+        "Files":  100,
+        "MB":  7.36
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\7",
+        "Files":  100,
+        "MB":  2.51
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\70",
+        "Files":  100,
+        "MB":  6.15
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\71",
+        "Files":  100,
+        "MB":  5.35
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\72",
+        "Files":  100,
+        "MB":  3.48
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\73",
+        "Files":  100,
+        "MB":  5.73
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\74",
+        "Files":  100,
+        "MB":  3.78
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\75",
+        "Files":  100,
+        "MB":  6.54
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\76",
+        "Files":  100,
+        "MB":  7.82
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\77",
+        "Files":  100,
+        "MB":  8.18
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\78",
+        "Files":  100,
+        "MB":  4.35
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\79",
+        "Files":  100,
+        "MB":  3.91
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\8",
+        "Files":  100,
+        "MB":  4.28
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\80",
+        "Files":  100,
+        "MB":  9.6
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\81",
+        "Files":  100,
+        "MB":  6.91
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\82",
+        "Files":  100,
+        "MB":  7.81
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\83",
+        "Files":  100,
+        "MB":  4.39
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\84",
+        "Files":  100,
+        "MB":  8.17
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\85",
+        "Files":  100,
+        "MB":  2.1
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\86",
+        "Files":  100,
+        "MB":  3.41
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\87",
+        "Files":  100,
+        "MB":  4.27
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\88",
+        "Files":  100,
+        "MB":  3.25
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\89",
+        "Files":  100,
+        "MB":  2.63
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\9",
+        "Files":  100,
+        "MB":  1.1
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\90",
+        "Files":  100,
+        "MB":  2.98
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\91",
+        "Files":  100,
+        "MB":  4.67
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\92",
+        "Files":  100,
+        "MB":  4.72
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\93",
+        "Files":  100,
+        "MB":  5.73
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\94",
+        "Files":  100,
+        "MB":  4.45
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\95",
+        "Files":  100,
+        "MB":  5.52
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\96",
+        "Files":  100,
+        "MB":  5.04
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\97",
+        "Files":  5,
+        "MB":  0.06
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset\\history_files\\import_json",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARCTraj",
+        "Files":  10,
+        "MB":  224.92
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARCTraj\\.cache",
+        "Files":  6,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARCTraj\\.cache\\huggingface",
+        "Files":  6,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\human_trajectories\\ARCTraj\\.cache\\huggingface\\download",
+        "Files":  4,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\interactive",
+        "Files":  46,
+        "MB":  0.62
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\interactive\\ARC-AGI-3-Agents",
+        "Files":  46,
+        "MB":  0.62
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\interactive\\ARC-AGI-3-Agents\\agents",
+        "Files":  27,
+        "MB":  0.17
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\interactive\\ARC-AGI-3-Agents\\agents\\templates",
+        "Files":  21,
+        "MB":  0.15
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\interactive\\ARC-AGI-3-Agents\\agents\\templates\\langgraph_thinking",
+        "Files":  8,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\interactive\\ARC-AGI-3-Agents\\agents\\templates\\openclaw_agent",
+        "Files":  5,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\interactive\\ARC-AGI-3-Agents\\agents\\templates\\openclaw_agent\\docker",
+        "Files":  2,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\interactive\\ARC-AGI-3-Agents\\tests",
+        "Files":  8,
+        "MB":  0.04
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\interactive\\ARC-AGI-3-Agents\\tests\\unit",
+        "Files":  5,
+        "MB":  0.04
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic",
+        "Files":  424,
+        "MB":  256.61
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic\\ARC-GEN-100K",
+        "Files":  400,
+        "MB":  91.24
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic\\barc_transduction_augmented_100k",
+        "Files":  12,
+        "MB":  101.63
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic\\barc_transduction_augmented_100k\\.cache",
+        "Files":  7,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic\\barc_transduction_augmented_100k\\.cache\\huggingface",
+        "Files":  7,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic\\barc_transduction_augmented_100k\\.cache\\huggingface\\download",
+        "Files":  5,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic\\barc_transduction_augmented_100k\\.cache\\huggingface\\download\\data",
+        "Files":  3,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic\\barc_transduction_augmented_100k\\data",
+        "Files":  3,
+        "MB":  101.63
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic\\RE-ARC",
+        "Files":  12,
+        "MB":  63.74
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators",
+        "Files":  1742,
+        "MB":  56.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN",
+        "Files":  1742,
+        "MB":  56.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN\\external",
+        "Files":  809,
+        "MB":  3.66
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN\\external\\ARC-AGI",
+        "Files":  809,
+        "MB":  3.66
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN\\external\\ARC-AGI\\apps",
+        "Files":  7,
+        "MB":  0.04
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN\\external\\ARC-AGI\\apps\\css",
+        "Files":  2,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN\\external\\ARC-AGI\\apps\\img",
+        "Files":  2,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN\\external\\ARC-AGI\\apps\\js",
+        "Files":  2,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN\\external\\ARC-AGI\\data",
+        "Files":  800,
+        "MB":  3.61
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN\\external\\ARC-AGI\\data\\evaluation",
+        "Files":  400,
+        "MB":  2.24
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN\\external\\ARC-AGI\\data\\training",
+        "Files":  400,
+        "MB":  1.37
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN\\misc",
+        "Files":  25,
+        "MB":  49.15
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN\\misc\\evaluation",
+        "Files":  3,
+        "MB":  0.22
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN\\misc\\evaluation\\BARC",
+        "Files":  1,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN\\misc\\evaluation\\re-arc",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN\\misc\\images",
+        "Files":  20,
+        "MB":  33.61
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN\\tasks",
+        "Files":  900,
+        "MB":  3.11
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants",
+        "Files":  1592,
+        "MB":  22.49
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\arc_1d",
+        "Files":  6,
+        "MB":  0.07
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\arc_1d\\.github",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\arc_1d\\.github\\workflows",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\arc_1d\\src",
+        "Files":  1,
+        "MB":  0.07
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC",
+        "Files":  1586,
+        "MB":  22.42
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\__pycache__",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\data",
+        "Files":  160,
+        "MB":  0.19
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\data\\MiniARC",
+        "Files":  149,
+        "MB":  0.13
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\data\\MiniARC_traces",
+        "Files":  10,
+        "MB":  0.06
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask",
+        "Files":  1385,
+        "MB":  16.54
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\bin",
+        "Files":  11,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib",
+        "Files":  1373,
+        "MB":  16.52
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10",
+        "Files":  1373,
+        "MB":  16.52
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages",
+        "Files":  1373,
+        "MB":  16.52
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\_distutils_hack",
+        "Files":  4,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\_distutils_hack\\__pycache__",
+        "Files":  2,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\click",
+        "Files":  33,
+        "MB":  0.61
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\click\\__pycache__",
+        "Files":  16,
+        "MB":  0.28
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\click-8.1.3.dist-info",
+        "Files":  6,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\flask",
+        "Files":  43,
+        "MB":  0.56
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\flask\\__pycache__",
+        "Files":  19,
+        "MB":  0.23
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\flask\\json",
+        "Files":  4,
+        "MB":  0.04
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\flask\\json\\__pycache__",
+        "Files":  2,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\Flask-2.1.3.dist-info",
+        "Files":  8,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\itsdangerous",
+        "Files":  17,
+        "MB":  0.07
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\itsdangerous\\__pycache__",
+        "Files":  8,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\itsdangerous-2.1.2.dist-info",
+        "Files":  6,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\jinja2",
+        "Files":  51,
+        "MB":  0.88
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\jinja2\\__pycache__",
+        "Files":  25,
+        "MB":  0.41
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\Jinja2-3.1.2.dist-info",
+        "Files":  7,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\markupsafe",
+        "Files":  8,
+        "MB":  0.14
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\markupsafe\\__pycache__",
+        "Files":  2,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\MarkupSafe-2.1.1.dist-info",
+        "Files":  6,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip",
+        "Files":  784,
+        "MB":  8.72
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\__pycache__",
+        "Files":  2,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal",
+        "Files":  282,
+        "MB":  1.66
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\__pycache__",
+        "Files":  9,
+        "MB":  0.06
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\cli",
+        "Files":  24,
+        "MB":  0.16
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\cli\\__pycache__",
+        "Files":  12,
+        "MB":  0.07
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\commands",
+        "Files":  34,
+        "MB":  0.2
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\commands\\__pycache__",
+        "Files":  17,
+        "MB":  0.09
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\distributions",
+        "Files":  10,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\distributions\\__pycache__",
+        "Files":  5,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\index",
+        "Files":  8,
+        "MB":  0.11
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\index\\__pycache__",
+        "Files":  4,
+        "MB":  0.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\locations",
+        "Files":  8,
+        "MB":  0.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\locations\\__pycache__",
+        "Files":  4,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\metadata",
+        "Files":  6,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\metadata\\__pycache__",
+        "Files":  3,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\models",
+        "Files":  22,
+        "MB":  0.07
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\models\\__pycache__",
+        "Files":  11,
+        "MB":  0.04
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\network",
+        "Files":  16,
+        "MB":  0.09
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\network\\__pycache__",
+        "Files":  8,
+        "MB":  0.04
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\operations",
+        "Files":  26,
+        "MB":  0.14
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\operations\\__pycache__",
+        "Files":  4,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\operations\\build",
+        "Files":  10,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\operations\\build\\__pycache__",
+        "Files":  5,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\operations\\install",
+        "Files":  8,
+        "MB":  0.06
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\operations\\install\\__pycache__",
+        "Files":  4,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\req",
+        "Files":  14,
+        "MB":  0.18
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\req\\__pycache__",
+        "Files":  7,
+        "MB":  0.07
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\resolution",
+        "Files":  26,
+        "MB":  0.18
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\resolution\\__pycache__",
+        "Files":  2,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\resolution\\legacy",
+        "Files":  4,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\resolution\\legacy\\__pycache__",
+        "Files":  2,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\resolution\\resolvelib",
+        "Files":  18,
+        "MB":  0.15
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\resolution\\resolvelib\\__pycache__",
+        "Files":  9,
+        "MB":  0.07
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\utils",
+        "Files":  58,
+        "MB":  0.22
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\utils\\__pycache__",
+        "Files":  29,
+        "MB":  0.1
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\vcs",
+        "Files":  12,
+        "MB":  0.11
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_internal\\vcs\\__pycache__",
+        "Files":  6,
+        "MB":  0.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor",
+        "Files":  497,
+        "MB":  7.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\__pycache__",
+        "Files":  5,
+        "MB":  0.31
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\cachecontrol",
+        "Files":  26,
+        "MB":  0.07
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\cachecontrol\\__pycache__",
+        "Files":  10,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\cachecontrol\\caches",
+        "Files":  6,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\cachecontrol\\caches\\__pycache__",
+        "Files":  3,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\certifi",
+        "Files":  7,
+        "MB":  0.26
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\certifi\\__pycache__",
+        "Files":  3,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\chardet",
+        "Files":  86,
+        "MB":  1.57
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\chardet\\__pycache__",
+        "Files":  39,
+        "MB":  0.54
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\chardet\\cli",
+        "Files":  4,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\chardet\\cli\\__pycache__",
+        "Files":  2,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\chardet\\metadata",
+        "Files":  4,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\chardet\\metadata\\__pycache__",
+        "Files":  2,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\colorama",
+        "Files":  12,
+        "MB":  0.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\colorama\\__pycache__",
+        "Files":  6,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\distlib",
+        "Files":  41,
+        "MB":  1.28
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\distlib\\__pycache__",
+        "Files":  13,
+        "MB":  0.28
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\distlib\\_backport",
+        "Files":  11,
+        "MB":  0.24
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\distlib\\_backport\\__pycache__",
+        "Files":  5,
+        "MB":  0.1
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\html5lib",
+        "Files":  66,
+        "MB":  0.91
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\html5lib\\__pycache__",
+        "Files":  8,
+        "MB":  0.32
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\html5lib\\_trie",
+        "Files":  6,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\html5lib\\_trie\\__pycache__",
+        "Files":  3,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\html5lib\\filters",
+        "Files":  16,
+        "MB":  0.08
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\html5lib\\filters\\__pycache__",
+        "Files":  8,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\html5lib\\treeadapters",
+        "Files":  6,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\html5lib\\treeadapters\\__pycache__",
+        "Files":  3,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\html5lib\\treebuilders",
+        "Files":  10,
+        "MB":  0.1
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\html5lib\\treebuilders\\__pycache__",
+        "Files":  5,
+        "MB":  0.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\html5lib\\treewalkers",
+        "Files":  12,
+        "MB":  0.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\html5lib\\treewalkers\\__pycache__",
+        "Files":  6,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\idna",
+        "Files":  16,
+        "MB":  0.45
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\idna\\__pycache__",
+        "Files":  8,
+        "MB":  0.19
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\msgpack",
+        "Files":  10,
+        "MB":  0.08
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\msgpack\\__pycache__",
+        "Files":  5,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\packaging",
+        "Files":  22,
+        "MB":  0.17
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\packaging\\__pycache__",
+        "Files":  11,
+        "MB":  0.08
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\pep517",
+        "Files":  22,
+        "MB":  0.09
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\pep517\\__pycache__",
+        "Files":  9,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\pep517\\in_process",
+        "Files":  4,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\pep517\\in_process\\__pycache__",
+        "Files":  2,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\pkg_resources",
+        "Files":  4,
+        "MB":  0.2
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\pkg_resources\\__pycache__",
+        "Files":  2,
+        "MB":  0.1
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\progress",
+        "Files":  8,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\progress\\__pycache__",
+        "Files":  4,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\requests",
+        "Files":  36,
+        "MB":  0.31
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\requests\\__pycache__",
+        "Files":  18,
+        "MB":  0.14
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\resolvelib",
+        "Files":  14,
+        "MB":  0.06
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\resolvelib\\__pycache__",
+        "Files":  5,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\resolvelib\\compat",
+        "Files":  4,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\resolvelib\\compat\\__pycache__",
+        "Files":  2,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\tenacity",
+        "Files":  22,
+        "MB":  0.09
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\tenacity\\__pycache__",
+        "Files":  11,
+        "MB":  0.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\tomli",
+        "Files":  6,
+        "MB":  0.04
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\tomli\\__pycache__",
+        "Files":  3,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\urllib3",
+        "Files":  78,
+        "MB":  0.66
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\urllib3\\__pycache__",
+        "Files":  11,
+        "MB":  0.11
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\urllib3\\contrib",
+        "Files":  20,
+        "MB":  0.18
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\urllib3\\contrib\\__pycache__",
+        "Files":  7,
+        "MB":  0.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport",
+        "Files":  6,
+        "MB":  0.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport\\__pycache__",
+        "Files":  3,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\urllib3\\packages",
+        "Files":  12,
+        "MB":  0.07
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\urllib3\\packages\\__pycache__",
+        "Files":  2,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports",
+        "Files":  4,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports\\__pycache__",
+        "Files":  2,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\urllib3\\packages\\ssl_match_hostname",
+        "Files":  4,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\urllib3\\packages\\ssl_match_hostname\\__pycache__",
+        "Files":  2,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\urllib3\\util",
+        "Files":  24,
+        "MB":  0.16
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\urllib3\\util\\__pycache__",
+        "Files":  12,
+        "MB":  0.07
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\webencodings",
+        "Files":  10,
+        "MB":  0.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip\\_vendor\\webencodings\\__pycache__",
+        "Files":  5,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pip-21.2.3.dist-info",
+        "Files":  8,
+        "MB":  0.06
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pkg_resources",
+        "Files":  34,
+        "MB":  0.82
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pkg_resources\\__pycache__",
+        "Files":  1,
+        "MB":  0.1
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pkg_resources\\_vendor",
+        "Files":  28,
+        "MB":  0.62
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pkg_resources\\_vendor\\__pycache__",
+        "Files":  3,
+        "MB":  0.21
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pkg_resources\\_vendor\\packaging",
+        "Files":  22,
+        "MB":  0.16
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__",
+        "Files":  11,
+        "MB":  0.07
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pkg_resources\\extern",
+        "Files":  2,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pkg_resources\\extern\\__pycache__",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pkg_resources\\tests",
+        "Files":  2,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pkg_resources\\tests\\data",
+        "Files":  2,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pkg_resources\\tests\\data\\my-test-package-source",
+        "Files":  2,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\pkg_resources\\tests\\data\\my-test-package-source\\__pycache__",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools",
+        "Files":  251,
+        "MB":  3.14
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools\\__pycache__",
+        "Files":  25,
+        "MB":  0.2
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools\\_distutils",
+        "Files":  108,
+        "MB":  1.07
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools\\_distutils\\__pycache__",
+        "Files":  30,
+        "MB":  0.26
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools\\_distutils\\command",
+        "Files":  48,
+        "MB":  0.41
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools\\_distutils\\command\\__pycache__",
+        "Files":  24,
+        "MB":  0.16
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools\\_vendor",
+        "Files":  34,
+        "MB":  0.86
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools\\_vendor\\__pycache__",
+        "Files":  3,
+        "MB":  0.21
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools\\_vendor\\more_itertools",
+        "Files":  6,
+        "MB":  0.25
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools\\_vendor\\more_itertools\\__pycache__",
+        "Files":  3,
+        "MB":  0.12
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools\\_vendor\\packaging",
+        "Files":  22,
+        "MB":  0.16
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools\\_vendor\\packaging\\__pycache__",
+        "Files":  11,
+        "MB":  0.07
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools\\command",
+        "Files":  49,
+        "MB":  0.38
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools\\command\\__pycache__",
+        "Files":  24,
+        "MB":  0.17
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools\\extern",
+        "Files":  2,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools\\extern\\__pycache__",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\setuptools-57.4.0.dist-info",
+        "Files":  8,
+        "MB":  0.03
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\werkzeug",
+        "Files":  92,
+        "MB":  1.42
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\werkzeug\\__pycache__",
+        "Files":  16,
+        "MB":  0.39
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\werkzeug\\debug",
+        "Files":  14,
+        "MB":  0.11
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\werkzeug\\debug\\__pycache__",
+        "Files":  4,
+        "MB":  0.04
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\werkzeug\\debug\\shared",
+        "Files":  6,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\werkzeug\\middleware",
+        "Files":  14,
+        "MB":  0.09
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\werkzeug\\middleware\\__pycache__",
+        "Files":  7,
+        "MB":  0.04
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\werkzeug\\routing",
+        "Files":  12,
+        "MB":  0.16
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\werkzeug\\routing\\__pycache__",
+        "Files":  6,
+        "MB":  0.08
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\werkzeug\\sansio",
+        "Files":  12,
+        "MB":  0.12
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\werkzeug\\sansio\\__pycache__",
+        "Files":  6,
+        "MB":  0.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\werkzeug\\wrappers",
+        "Files":  6,
+        "MB":  0.1
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\werkzeug\\wrappers\\__pycache__",
+        "Files":  3,
+        "MB":  0.05
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\flask\\lib\\python3.10\\site-packages\\Werkzeug-2.2.0.dist-info",
+        "Files":  6,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\server",
+        "Files":  37,
+        "MB":  5.67
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\server\\src",
+        "Files":  35,
+        "MB":  5.66
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\server\\src\\__pycache__",
+        "Files":  7,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\server\\src\\instance",
+        "Files":  1,
+        "MB":  5.45
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\server\\src\\node_modules",
+        "Files":  1,
+        "MB":  0
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\server\\src\\static",
+        "Files":  13,
+        "MB":  0.13
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\server\\src\\static\\css",
+        "Files":  6,
+        "MB":  0.02
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\server\\src\\static\\img",
+        "Files":  2,
+        "MB":  0.01
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\server\\src\\static\\js",
+        "Files":  5,
+        "MB":  0.1
+    },
+    {
+        "FullName":  "C:\\Users\\J\\arc_dataset_library\\datasets\\variants\\MINI-ARC\\server\\src\\templates",
+        "Files":  7,
+        "MB":  0.05
+    }
+]

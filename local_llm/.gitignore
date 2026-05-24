@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+models/
+adapters/
+logs/*.jsonl
+artifacts/base_responses.jsonl
+artifacts/adapter_responses.jsonl

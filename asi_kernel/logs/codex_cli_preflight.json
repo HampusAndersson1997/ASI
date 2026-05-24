@@ -1,0 +1,45 @@
+﻿{
+    "checked_at":  "2026-05-24T04:23:03.1289644+00:00",
+    "expected_root":  "D:\\Sandbox\\asi_kernel",
+    "current_path":  "D:\\Sandbox\\asi_kernel",
+    "current_path_ok":  true,
+    "ready":  true,
+    "checks":  {
+                   "node_version":  {
+                                        "command":  "node -v",
+                                        "available":  true,
+                                        "stdout":  "v24.15.0",
+                                        "stderr":  "",
+                                        "exit_code":  0,
+                                        "source":  "C:\\Program Files\\nodejs\\node.exe",
+                                        "error":  null
+                                    },
+                   "npm_version":  {
+                                       "command":  "npm -v",
+                                       "available":  true,
+                                       "stdout":  "11.12.1",
+                                       "stderr":  "",
+                                       "exit_code":  0,
+                                       "source":  "C:\\Program Files\\nodejs\\npm.ps1",
+                                       "error":  null
+                                   },
+                   "codex_command":  {
+                                         "command":  "Get-Command codex",
+                                         "available":  true,
+                                         "stdout":  "C:\\Users\\J\\AppData\\Roaming\\npm\\codex.ps1",
+                                         "stderr":  "",
+                                         "exit_code":  0,
+                                         "source":  "C:\\Users\\J\\AppData\\Roaming\\npm\\codex.ps1",
+                                         "error":  null
+                                     },
+                   "codex_version":  {
+                                         "command":  "codex --version",
+                                         "available":  true,
+                                         "stdout":  "codex-cli 0.133.0",
+                                         "stderr":  "",
+                                         "exit_code":  0,
+                                         "source":  "C:\\Users\\J\\AppData\\Roaming\\npm\\codex.ps1",
+                                         "error":  null
+                                     }
+               }
+}

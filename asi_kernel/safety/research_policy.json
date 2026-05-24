@@ -1,0 +1,30 @@
+{
+  "name": "stage6a_safe_autonomous_research_policy",
+  "version": 1,
+  "max_cycles_default": 1,
+  "max_cycles_hard_limit": 3,
+  "timeout_seconds": 30,
+  "network_allowed": false,
+  "secrets_allowed": false,
+  "destructive_actions_allowed": false,
+  "auto_apply_patches": false,
+  "human_approval_required_for_changes": true,
+  "allowed_commands": [
+    ["research/propose_hypothesis.py", "--suite", "smoke"],
+    ["research/run_experiment.py", "--suite", "smoke"],
+    ["research/compare_results.py", "--latest"]
+  ],
+  "forbidden_fragments": [
+    ".env",
+    "Remove-Item",
+    "rm -rf",
+    "curl",
+    "Invoke-WebRequest",
+    "wget",
+    "ssh",
+    "scp",
+    "git push",
+    "pip install",
+    "npm install"
+  ]
+}

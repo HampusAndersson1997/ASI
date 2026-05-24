@@ -1,0 +1,359 @@
+{
+  "scope": "official ARC-AGI-1 and ARC-AGI-2 only",
+  "records_used": 1920,
+  "baselines": [
+    "identity",
+    "zero_fill",
+    "mode_fill"
+  ],
+  "results": {
+    "identity": {
+      "ARC-AGI-1/eval/train_pairs": {
+        "tasks": 0,
+        "pairs": 1363,
+        "exact_pairs": 3,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0022010271460014674
+      },
+      "ARC-AGI-1/eval/train_tasks": {
+        "tasks": 400,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-1/eval/test_pairs_known": {
+        "tasks": 0,
+        "pairs": 419,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0
+      },
+      "ARC-AGI-1/eval/test_tasks_known": {
+        "tasks": 400,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-1/train/train_pairs": {
+        "tasks": 0,
+        "pairs": 1302,
+        "exact_pairs": 5,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0038402457757296467
+      },
+      "ARC-AGI-1/train/train_tasks": {
+        "tasks": 400,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-1/train/test_pairs_known": {
+        "tasks": 0,
+        "pairs": 416,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0
+      },
+      "ARC-AGI-1/train/test_tasks_known": {
+        "tasks": 400,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-2/eval/train_pairs": {
+        "tasks": 0,
+        "pairs": 359,
+        "exact_pairs": 1,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.002785515320334262
+      },
+      "ARC-AGI-2/eval/train_tasks": {
+        "tasks": 120,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-2/eval/test_pairs_known": {
+        "tasks": 0,
+        "pairs": 167,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0
+      },
+      "ARC-AGI-2/eval/test_tasks_known": {
+        "tasks": 120,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-2/train/train_pairs": {
+        "tasks": 0,
+        "pairs": 3232,
+        "exact_pairs": 10,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.003094059405940594
+      },
+      "ARC-AGI-2/train/train_tasks": {
+        "tasks": 1000,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-2/train/test_pairs_known": {
+        "tasks": 0,
+        "pairs": 1076,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0
+      },
+      "ARC-AGI-2/train/test_tasks_known": {
+        "tasks": 1000,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      }
+    },
+    "zero_fill": {
+      "ARC-AGI-1/eval/train_pairs": {
+        "tasks": 0,
+        "pairs": 1363,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0
+      },
+      "ARC-AGI-1/eval/train_tasks": {
+        "tasks": 400,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-1/eval/test_pairs_known": {
+        "tasks": 0,
+        "pairs": 419,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0
+      },
+      "ARC-AGI-1/eval/test_tasks_known": {
+        "tasks": 400,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-1/train/train_pairs": {
+        "tasks": 0,
+        "pairs": 1302,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0
+      },
+      "ARC-AGI-1/train/train_tasks": {
+        "tasks": 400,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-1/train/test_pairs_known": {
+        "tasks": 0,
+        "pairs": 416,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0
+      },
+      "ARC-AGI-1/train/test_tasks_known": {
+        "tasks": 400,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-2/eval/train_pairs": {
+        "tasks": 0,
+        "pairs": 359,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0
+      },
+      "ARC-AGI-2/eval/train_tasks": {
+        "tasks": 120,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-2/eval/test_pairs_known": {
+        "tasks": 0,
+        "pairs": 167,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0
+      },
+      "ARC-AGI-2/eval/test_tasks_known": {
+        "tasks": 120,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-2/train/train_pairs": {
+        "tasks": 0,
+        "pairs": 3232,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0
+      },
+      "ARC-AGI-2/train/train_tasks": {
+        "tasks": 1000,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-2/train/test_pairs_known": {
+        "tasks": 0,
+        "pairs": 1076,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0
+      },
+      "ARC-AGI-2/train/test_tasks_known": {
+        "tasks": 1000,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      }
+    },
+    "mode_fill": {
+      "ARC-AGI-1/eval/train_pairs": {
+        "tasks": 0,
+        "pairs": 1363,
+        "exact_pairs": 2,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.001467351430667645
+      },
+      "ARC-AGI-1/eval/train_tasks": {
+        "tasks": 400,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-1/eval/test_pairs_known": {
+        "tasks": 0,
+        "pairs": 419,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0
+      },
+      "ARC-AGI-1/eval/test_tasks_known": {
+        "tasks": 400,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-1/train/train_pairs": {
+        "tasks": 0,
+        "pairs": 1302,
+        "exact_pairs": 3,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.002304147465437788
+      },
+      "ARC-AGI-1/train/train_tasks": {
+        "tasks": 400,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 1,
+        "task_accuracy": 0.0025
+      },
+      "ARC-AGI-1/train/test_pairs_known": {
+        "tasks": 0,
+        "pairs": 416,
+        "exact_pairs": 1,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.002403846153846154
+      },
+      "ARC-AGI-1/train/test_tasks_known": {
+        "tasks": 400,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 1,
+        "task_accuracy": 0.0025
+      },
+      "ARC-AGI-2/eval/train_pairs": {
+        "tasks": 0,
+        "pairs": 359,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0
+      },
+      "ARC-AGI-2/eval/train_tasks": {
+        "tasks": 120,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-2/eval/test_pairs_known": {
+        "tasks": 0,
+        "pairs": 167,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0
+      },
+      "ARC-AGI-2/eval/test_tasks_known": {
+        "tasks": 120,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 0,
+        "task_accuracy": 0.0
+      },
+      "ARC-AGI-2/train/train_pairs": {
+        "tasks": 0,
+        "pairs": 3232,
+        "exact_pairs": 5,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.001547029702970297
+      },
+      "ARC-AGI-2/train/train_tasks": {
+        "tasks": 1000,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 1,
+        "task_accuracy": 0.001
+      },
+      "ARC-AGI-2/train/test_pairs_known": {
+        "tasks": 0,
+        "pairs": 1076,
+        "exact_pairs": 1,
+        "exact_tasks": 0,
+        "pair_accuracy": 0.0009293680297397769
+      },
+      "ARC-AGI-2/train/test_tasks_known": {
+        "tasks": 1000,
+        "pairs": 0,
+        "exact_pairs": 0,
+        "exact_tasks": 1,
+        "task_accuracy": 0.001
+      }
+    }
+  },
+  "notes": [
+    "identity copies input grid as output",
+    "zero_fill outputs same input shape filled with 0",
+    "mode_fill outputs same input shape filled with input's most common color",
+    "These are floor baselines, not serious solvers"
+  ]
+}

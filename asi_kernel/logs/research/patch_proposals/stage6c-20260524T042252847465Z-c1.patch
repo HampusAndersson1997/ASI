@@ -1,0 +1,7 @@
+--- /dev/null
++++ b/verification/safe_autonomy_boundary.md
+@@ -0,0 +1,4 @@
++# Safe Autonomy Boundary
++
++- Stage 6c patch proposals remain review-only until human approval is recorded.
++- Generated patch artifacts are reversible unified diffs and are never auto-applied by the proposal loop.

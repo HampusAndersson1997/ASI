@@ -1,0 +1,18 @@
+[
+  {
+    "name": "codex_cli_delegate",
+    "purpose": "Delegate bounded local coding, inspection, refactor, and test tasks to Codex CLI.",
+    "command": "python tools\\codex_cli\\run_codex_exec.py --task <task_json>",
+    "risk": "medium",
+    "allowed_paths": [
+      "D:\\Sandbox\\asi_kernel"
+    ],
+    "requires_confirmation": true,
+    "writes_audit_log": true,
+    "forbidden_flags": [
+      "--yolo",
+      "--dangerously-bypass-approvals-and-sandbox",
+      "--sandbox danger-full-access"
+    ]
+  }
+]

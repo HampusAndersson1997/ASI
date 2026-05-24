@@ -1,0 +1,122 @@
+﻿[
+    {
+        "Name":  "arc_1d",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\variants\\arc_1d",
+        "Files":  6,
+        "MB":  0.07
+    },
+    {
+        "Name":  "ARC-AGI-1",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\core\\ARC-AGI-1",
+        "Files":  809,
+        "MB":  3.66
+    },
+    {
+        "Name":  "ARC-AGI-2",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\core\\ARC-AGI-2",
+        "Files":  1125,
+        "MB":  5.78
+    },
+    {
+        "Name":  "ARC-AGI-3-Agents",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\interactive\\ARC-AGI-3-Agents",
+        "Files":  46,
+        "MB":  0.62
+    },
+    {
+        "Name":  "ARC-GEN",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\synthetic_generators\\ARC-GEN",
+        "Files":  1742,
+        "MB":  56.05
+    },
+    {
+        "Name":  "ARC-GEN-100K",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\synthetic\\ARC-GEN-100K",
+        "Files":  400,
+        "MB":  91.24
+    },
+    {
+        "Name":  "ARC-Interactive-History-Dataset",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\human_trajectories\\ARC-Interactive-History-Dataset",
+        "Files":  9612,
+        "MB":  382.3
+    },
+    {
+        "Name":  "ARCLE",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\environments\\ARCLE",
+        "Files":  53,
+        "MB":  48.28
+    },
+    {
+        "Name":  "ARCTraj",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\human_trajectories\\ARCTraj",
+        "Files":  4,
+        "MB":  224.92
+    },
+    {
+        "Name":  "barc_transduction_augmented_100k",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\synthetic\\barc_transduction_augmented_100k",
+        "Files":  5,
+        "MB":  101.63
+    },
+    {
+        "Name":  "cellarc_100k",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k",
+        "Files":  27,
+        "MB":  58.65
+    },
+    {
+        "Name":  "cellarc_100k_meta",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\arc_like\\cellarc_100k_meta",
+        "Files":  27,
+        "MB":  279.66
+    },
+    {
+        "Name":  "cellarc_code",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\arc_like\\cellarc_code",
+        "Files":  65,
+        "MB":  0.96
+    },
+    {
+        "Name":  "Compositional-ARC",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\compositional\\Compositional-ARC",
+        "Files":  22,
+        "MB":  259.02
+    },
+    {
+        "Name":  "ConceptARC",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\concept\\ConceptARC",
+        "Files":  180,
+        "MB":  0.48
+    },
+    {
+        "Name":  "h-arc",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\human\\h-arc",
+        "Files":  37,
+        "MB":  7.46
+    },
+    {
+        "Name":  "H-ARC-OSF",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\human\\H-ARC-OSF",
+        "Files":  8,
+        "MB":  463.24
+    },
+    {
+        "Name":  "LARC",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\human_language\\LARC",
+        "Files":  1280,
+        "MB":  126.68
+    },
+    {
+        "Name":  "MINI-ARC",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\variants\\MINI-ARC",
+        "Files":  1586,
+        "MB":  22.42
+    },
+    {
+        "Name":  "RE-ARC",
+        "Path":  "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\synthetic\\RE-ARC",
+        "Files":  12,
+        "MB":  63.74
+    }
+]

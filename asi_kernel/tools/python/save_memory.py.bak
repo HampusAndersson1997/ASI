@@ -1,0 +1,155 @@
+﻿from __future__ import annotations
+
+import argparse
+import json
+import os
+import sys
+from datetime import datetime, timezone
+from pathlib import Path
+from typing import Any
+
+from dotenv import load_dotenv
+from supabase import create_client
+
+
+ROOT = Path(__file__).resolve().parents[2]
+LOG_DIR = ROOT / "logs"
+LOG_PATH = LOG_DIR / "agent_actions.jsonl"
+
+
+def utc_now() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
+def log_action(event: dict[str, Any]) -> None:
+    LOG_DIR.mkdir(parents=True, exist_ok=True)
+    record = {
+        "logged_at": utc_now(),
+        **event,
+    }
+    with LOG_PATH.open("a", encoding="utf-8") as f:
+        f.write(json.dumps(record, ensure_ascii=False, sort_keys=True) + "\n")
+
+
+def require_env(name: str) -> str:
+    value = os.getenv(name)
+    if not value:
+        raise RuntimeError(f"Missing required environment variable: {name}")
+    return value
+
+
+def save_memory(
+    *,
+    namespace: str,
+    title: str,
+    content: str,
+    tags: list[str],
+    confidence: float,
+    metadata: dict[str, Any],
+) -> dict[str, Any]:
+    if not 0 <= confidence <= 1:
+        raise ValueError("confidence must be between 0 and 1")
+
+    load_dotenv(ROOT / ".env", override=True, encoding="utf-8-sig")
+
+    supabase_url = require_env("SUPABASE_URL")
+    supabase_key = require_env("SUPABASE_SERVICE_ROLE_KEY")
+
+    client = create_client(supabase_url, supabase_key)
+
+    payload = {
+        "namespace": namespace,
+        "title": title,
+        "content": content,
+        "tags": tags,
+        "confidence": confidence,
+        "metadata": {
+            **metadata,
+            "saved_by": "tools/python/save_memory.py",
+            "local_root": str(ROOT),
+            "saved_at": utc_now(),
+        },
+    }
+
+    log_action({
+        "action": "save_memory_attempt",
+        "table": "public.memories",
+        "title": title,
+        "namespace": namespace,
+        "tags": tags,
+    })
+
+    result = client.table("memories").insert(payload).execute()
+
+    if not result.data:
+        log_action({
+            "action": "save_memory_failed",
+            "reason": "Supabase insert returned no data",
+            "payload_title": title,
+        })
+        raise RuntimeError("Supabase insert returned no data")
+
+    row = result.data[0]
+
+    log_action({
+        "action": "save_memory_success",
+        "table": "public.memories",
+        "memory_id": row.get("id"),
+        "title": row.get("title"),
+        "namespace": row.get("namespace"),
+    })
+
+    return row
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Save a verified memory into ASI Kernel Supabase public.memories."
+    )
+    parser.add_argument("--title", required=True)
+    parser.add_argument("--content", required=True)
+    parser.add_argument("--namespace", default="asi_kernel")
+    parser.add_argument("--tags", default="", help="Comma-separated tags")
+    parser.add_argument("--confidence", type=float, default=1.0)
+    parser.add_argument(
+        "--metadata-json",
+        default="{}",
+        help="JSON object with evidence/source metadata",
+    )
+    return parser.parse_args()
+
+
+def main() -> int:
+    args = parse_args()
+
+    try:
+        metadata = json.loads(args.metadata_json)
+        if not isinstance(metadata, dict):
+            raise ValueError("--metadata-json must decode to a JSON object")
+
+        tags = [tag.strip() for tag in args.tags.split(",") if tag.strip()]
+
+        row = save_memory(
+            namespace=args.namespace,
+            title=args.title,
+            content=args.content,
+            tags=tags,
+            confidence=args.confidence,
+            metadata=metadata,
+        )
+
+        print(json.dumps(row, indent=2, ensure_ascii=False, sort_keys=True))
+        return 0
+
+    except Exception as exc:
+        log_action({
+            "action": "save_memory_exception",
+            "error": repr(exc),
+        })
+        print(f"ERROR: {exc}", file=sys.stderr)
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
+

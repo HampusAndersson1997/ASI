@@ -1,0 +1,33 @@
+{
+  "total_tasks_indexed": 4245,
+  "by_source": {
+    "MINI-ARC": 149,
+    "ARC-AGI-1": 1600,
+    "unknown": 1200,
+    "ARC-AGI-2": 1120,
+    "ConceptARC": 176
+  },
+  "by_split": {
+    "unknown": 725,
+    "eval": 1320,
+    "train": 2200
+  },
+  "by_source_split": {
+    "MINI-ARC/unknown": 149,
+    "ARC-AGI-1/eval": 800,
+    "ARC-AGI-1/train": 800,
+    "unknown/unknown": 400,
+    "unknown/eval": 400,
+    "unknown/train": 400,
+    "ARC-AGI-2/eval": 120,
+    "ARC-AGI-2/train": 1000,
+    "ConceptARC/unknown": 176
+  },
+  "errors_count": 1,
+  "errors_sample": [
+    {
+      "path": "C:\\Users\\J\\Sandbox\\arc_dataset_library\\datasets\\human\\h-arc\\.vscode\\launch.json",
+      "error": "json_load_failed: Expecting property name enclosed in double quotes: line 2 column 3 (char 4)"
+    }
+  ]
+}

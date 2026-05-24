@@ -1,0 +1,14 @@
+{
+  "task_id": "repo_inspection_001",
+  "prompt": "Inspect this repo. Do not edit files. Write a concise summary of the file tree and missing tests.",
+  "workspace": "D:\\Sandbox\\asi_kernel",
+  "expected_outputs": [
+    "logs\\codex_cli_outputs\\repo_inspection_001.md"
+  ],
+  "validation_commands": [
+    "python tools\\codex_cli\\run_codex_exec.py --help"
+  ],
+  "max_duration_sec": 300,
+  "max_recursion_depth": 0,
+  "risk_level": "low"
+}

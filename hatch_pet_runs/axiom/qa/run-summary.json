@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "run_dir": "D:/Sandbox/hatch_pet_runs/axiom",
+  "spritesheet": "D:/Sandbox/hatch_pet_runs/axiom/final/spritesheet.webp",
+  "validation": "D:/Sandbox/hatch_pet_runs/axiom/final/validation.json",
+  "contact_sheet": "D:/Sandbox/hatch_pet_runs/axiom/qa/contact-sheet.png",
+  "review": "D:/Sandbox/hatch_pet_runs/axiom/qa/review.json",
+  "package": "C:/Users/J/.codex/pets/axiom",
+  "visual_qa": "parent-pass",
+  "notes": "Final QA worker was unavailable due app usage limit; parent inspected repaired stable-slot contact sheet and validation passed."
+}

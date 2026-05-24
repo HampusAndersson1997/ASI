@@ -1,0 +1,21 @@
+{
+  "adapter_dir": "/mnt/d/Sandbox/local_llm/adapters/asi_arc_lora_v1",
+  "adapter_load": "pass",
+  "adapter_model_safetensors": "/mnt/d/Sandbox/local_llm/adapters/asi_arc_lora_v1/adapter_model.safetensors",
+  "checks": [
+    "pass: adapter weights exist, are non-zero, and contain no NaN",
+    "pass: base model plus adapter loaded"
+  ],
+  "created_at": "2026-05-23T05:51:38+00:00",
+  "loader": "AutoModelForImageTextToText",
+  "safetensors": {
+    "has_nan": false,
+    "nonzero_elements": 21233664,
+    "path": "/mnt/d/Sandbox/local_llm/adapters/asi_arc_lora_v1/adapter_model.safetensors",
+    "sha256": "06b84dffff600bbd7d9b4dff4f36641b5c0522bdde37b52ab5d9f40b264ca01d",
+    "size_bytes": 84972248,
+    "tensor_count": 256,
+    "total_elements": 21233664
+  },
+  "status": "pass"
+}

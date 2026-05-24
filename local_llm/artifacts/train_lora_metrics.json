@@ -1,0 +1,21 @@
+{
+  "created_at": "2026-05-23T05:51:26+00:00",
+  "dataset": "/mnt/d/Sandbox/local_llm/data/asi_arc_sft_v1.jsonl",
+  "epochs": 3,
+  "final_loss": 2.2158048152923584,
+  "global_steps": 6,
+  "loader": "AutoModelForImageTextToText",
+  "lora_targets": [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "o_proj",
+    "gate_proj",
+    "up_proj",
+    "down_proj"
+  ],
+  "nan_or_inf_loss": false,
+  "output_dir": "/mnt/d/Sandbox/local_llm/adapters/asi_arc_lora_v1",
+  "record_count": 6,
+  "status": "pass"
+}

@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bounded Codex CLI Task",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "task_id",
+    "prompt",
+    "workspace",
+    "expected_outputs",
+    "validation_commands",
+    "max_duration_sec",
+    "max_recursion_depth",
+    "risk_level"
+  ],
+  "properties": {
+    "task_id": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120,
+      "pattern": "^[A-Za-z0-9_.-]+$"
+    },
+    "prompt": {
+      "type": "string",
+      "minLength": 1
+    },
+    "workspace": {
+      "type": "string",
+      "const": "D:\\Sandbox\\asi_kernel"
+    },
+    "expected_outputs": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "validation_commands": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "max_duration_sec": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 3600
+    },
+    "max_recursion_depth": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "risk_level": {
+      "type": "string",
+      "enum": [
+        "low",
+        "medium"
+      ]
+    }
+  }
+}

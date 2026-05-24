@@ -1,0 +1,9 @@
+{
+  "checked_at": "2026-05-23T05:15:00+00:00",
+  "cuda_available": false,
+  "error": "torch_import_failed: ModuleNotFoundError: No module named 'torch'",
+  "path_has_wsl_lib": true,
+  "platform": "Linux-6.6.114.1-microsoft-standard-WSL2-x86_64-with-glibc2.43",
+  "python": "3.14.5 (main, May 10 2026, 18:26:20) [GCC 16.1.1 20260430]",
+  "status": "failed"
+}

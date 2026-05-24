@@ -1,0 +1,990 @@
+{
+  "ok": true,
+  "frames_root": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames",
+  "errors": [],
+  "warnings": [
+    "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15374,
+          "bbox": [
+            39,
+            5,
+            153,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 258
+        },
+        {
+          "index": 1,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15087,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 253
+        },
+        {
+          "index": 2,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14843,
+          "bbox": [
+            40,
+            6,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 257
+        },
+        {
+          "index": 3,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14522,
+          "bbox": [
+            40,
+            13,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 225
+        },
+        {
+          "index": 4,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14508,
+          "bbox": [
+            39,
+            10,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 239
+        },
+        {
+          "index": 5,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15179,
+          "bbox": [
+            39,
+            7,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 251
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13000,
+          "bbox": [
+            37,
+            9,
+            155,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 318
+        },
+        {
+          "index": 1,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11499,
+          "bbox": [
+            44,
+            20,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 222
+        },
+        {
+          "index": 2,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12272,
+          "bbox": [
+            33,
+            5,
+            159,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 282
+        },
+        {
+          "index": 3,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12171,
+          "bbox": [
+            42,
+            13,
+            150,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 242
+        },
+        {
+          "index": 4,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11933,
+          "bbox": [
+            38,
+            11,
+            153,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 253
+        },
+        {
+          "index": 5,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11538,
+          "bbox": [
+            45,
+            17,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 239
+        },
+        {
+          "index": 6,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12356,
+          "bbox": [
+            35,
+            12,
+            156,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 272
+        },
+        {
+          "index": 7,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11547,
+          "bbox": [
+            42,
+            21,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 247
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13000,
+          "bbox": [
+            37,
+            9,
+            155,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 318
+        },
+        {
+          "index": 1,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11499,
+          "bbox": [
+            44,
+            20,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 222
+        },
+        {
+          "index": 2,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12272,
+          "bbox": [
+            33,
+            5,
+            159,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 282
+        },
+        {
+          "index": 3,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12171,
+          "bbox": [
+            42,
+            13,
+            150,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 242
+        },
+        {
+          "index": 4,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11955,
+          "bbox": [
+            38,
+            11,
+            153,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 264
+        },
+        {
+          "index": 5,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11538,
+          "bbox": [
+            45,
+            17,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 239
+        },
+        {
+          "index": 6,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12348,
+          "bbox": [
+            35,
+            12,
+            156,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 280
+        },
+        {
+          "index": 7,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11547,
+          "bbox": [
+            42,
+            21,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 247
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15821,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 189
+        },
+        {
+          "index": 1,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15719,
+          "bbox": [
+            28,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 178
+        },
+        {
+          "index": 2,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15420,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 175
+        },
+        {
+          "index": 3,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15405,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 175
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8306,
+          "bbox": [
+            49,
+            64,
+            143,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 96
+        },
+        {
+          "index": 1,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8871,
+          "bbox": [
+            38,
+            34,
+            154,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 145
+        },
+        {
+          "index": 2,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8863,
+          "bbox": [
+            38,
+            5,
+            154,
+            154
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 87
+        },
+        {
+          "index": 3,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8894,
+          "bbox": [
+            40,
+            34,
+            152,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 109
+        },
+        {
+          "index": 4,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8699,
+          "bbox": [
+            50,
+            58,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 131
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14990,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 374
+        },
+        {
+          "index": 1,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14277,
+          "bbox": [
+            39,
+            18,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 304
+        },
+        {
+          "index": 2,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12688,
+          "bbox": [
+            41,
+            39,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 266
+        },
+        {
+          "index": 3,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11391,
+          "bbox": [
+            42,
+            53,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 245
+        },
+        {
+          "index": 4,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10219,
+          "bbox": [
+            43,
+            69,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 196
+        },
+        {
+          "index": 5,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12355,
+          "bbox": [
+            42,
+            36,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 246
+        },
+        {
+          "index": 6,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13605,
+          "bbox": [
+            41,
+            21,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 318
+        },
+        {
+          "index": 7,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14727,
+          "bbox": [
+            39,
+            8,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 364
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15033,
+          "bbox": [
+            20,
+            7,
+            171,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 218
+        },
+        {
+          "index": 1,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14090,
+          "bbox": [
+            39,
+            5,
+            152,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 205
+        },
+        {
+          "index": 2,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14716,
+          "bbox": [
+            20,
+            6,
+            171,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 213
+        },
+        {
+          "index": 3,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13253,
+          "bbox": [
+            40,
+            11,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        },
+        {
+          "index": 4,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13849,
+          "bbox": [
+            39,
+            11,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 188
+        },
+        {
+          "index": 5,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13853,
+          "bbox": [
+            29,
+            18,
+            162,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14519,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 186
+        },
+        {
+          "index": 1,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13650,
+          "bbox": [
+            40,
+            18,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 150
+        },
+        {
+          "index": 2,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14689,
+          "bbox": [
+            34,
+            7,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 187
+        },
+        {
+          "index": 3,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14833,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 196
+        },
+        {
+          "index": 4,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13528,
+          "bbox": [
+            40,
+            6,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 172
+        },
+        {
+          "index": 5,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14369,
+          "bbox": [
+            39,
+            8,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 183
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15301,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 269
+        },
+        {
+          "index": 1,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13547,
+          "bbox": [
+            41,
+            12,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 192
+        },
+        {
+          "index": 2,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14284,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 217
+        },
+        {
+          "index": 3,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13476,
+          "bbox": [
+            42,
+            13,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 230
+        },
+        {
+          "index": 4,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15019,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 236
+        },
+        {
+          "index": 5,
+          "file": "/mnt/d/Sandbox/hatch_pet_runs/axiom/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13865,
+          "bbox": [
+            37,
+            19,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 216
+        }
+      ]
+    }
+  ]
+}

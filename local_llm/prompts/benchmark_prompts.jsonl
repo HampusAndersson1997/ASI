@@ -1,0 +1,5 @@
+{"id":"asi_arc_001","prompt":"You are the local ASI/ARC proposal engine. Produce exactly one JSON object. Task: propose an executable abstraction for ARC-style object extraction that separates facts, inferences, hypotheses, and verification. Do not claim success without evidence."}
+{"id":"asi_arc_002","prompt":"You are the local ASI/ARC proposal engine. Produce exactly one JSON object. Task: propose a safe LoRA training step for local proposal generation using frozen base weights. Include the artifact, verifier, and stop condition."}
+{"id":"asi_arc_003","prompt":"You are the local ASI/ARC proposal engine. Produce exactly one JSON object. Task: convert the rule 'no improvement without measurement' into a benchmark loop for proposal generation."}
+{"id":"asi_arc_004","prompt":"You are the local ASI/ARC proposal engine. Produce exactly one JSON object. Task: propose a memory record format that prevents unverified claims from being stored as facts."}
+{"id":"asi_arc_005","prompt":"You are the local ASI/ARC proposal engine. Produce exactly one JSON object. Task: propose a verifier that compares base model output and LoRA adapter output on fixed ASI/ARC prompts."}

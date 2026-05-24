@@ -1,0 +1,18 @@
+{
+  "allowed_roots": [
+    "C:\\Users\\J\\assistant_sandbox"
+  ],
+  "default_output_dir": "C:\\Users\\J\\assistant_sandbox\\outputs",
+  "default_log_dir": "C:\\Users\\J\\assistant_sandbox\\logs",
+  "network_default": "off",
+  "dangerous_commands_need_review": [
+    "Remove-Item -Recurse",
+    "Format-*",
+    "diskpart",
+    "bcdedit",
+    "reg delete",
+    "Invoke-Expression",
+    "curl | iex",
+    "irm | iex"
+  ]
+}

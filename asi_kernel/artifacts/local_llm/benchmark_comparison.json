@@ -1,0 +1,19 @@
+{
+  "adapter": {
+    "accepted_proposal_count": 2,
+    "valid_json_rate": 0.8
+  },
+  "adapter_metrics": "/mnt/d/Sandbox/local_llm/artifacts/adapter_metrics.json",
+  "base": {
+    "accepted_proposal_count": 0,
+    "valid_json_rate": 0.0
+  },
+  "base_metrics": "/mnt/d/Sandbox/local_llm/artifacts/base_metrics.json",
+  "created_at": "2026-05-23T06:01:56+00:00",
+  "improvement_rule": "Adapter is improved only if accepted_proposal_count increases by at least 1 and valid_json_rate does not decrease.",
+  "reasons": [
+    "accepted_count_increased_without_valid_json_drop"
+  ],
+  "result": "improved",
+  "verifier_version": "2026-05-23.risk-boundary-calibration"
+}

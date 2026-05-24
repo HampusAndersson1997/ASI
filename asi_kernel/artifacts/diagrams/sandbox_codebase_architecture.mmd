@@ -1,0 +1,134 @@
+flowchart LR
+  root["D:\\Sandbox<br/>workspace root"]
+  rootConfig["Root config<br/>.mcp.json<br/>cloudflare-quick-mcp.ps1<br/>package-lock.json"]
+
+  subgraph AK["asi_kernel<br/>measured AGI/ASI harness repo"]
+    direction LR
+
+    subgraph Loop["Prime loop"]
+      direction LR
+      goal["Goal system<br/>goals/*.md"]
+      memory["Memory graph<br/>memory protocol, JSONL, SQLite"]
+      plan["Plan / task generator<br/>README + task JSON"]
+      execute["Tool executor<br/>tools/codex_cli/run_codex_exec.py"]
+      evaluate["Evaluator<br/>tools/python/score_result.py"]
+      failure["Failure analyzer<br/>tools/python/classify_failure.py<br/>memory/failures.jsonl"]
+      refine["Refiner<br/>research loops<br/>patch proposal loop"]
+      verify["Verification<br/>tests + verification ledger"]
+      dashboard["Dashboard<br/>dashboards/progress_report.py"]
+
+      goal --> plan --> execute --> evaluate --> verify --> dashboard
+      evaluate --> memory
+      evaluate --> failure --> refine --> plan
+      verify --> memory
+      dashboard --> goal
+    end
+
+    codexTask["Codex task schema/template<br/>tools/codex_cli/*.json"]
+    codexPreflight["Codex CLI preflight<br/>check_codex_cli.ps1"]
+    safety["Safety policy<br/>safety/policy.py<br/>safety/research_policy.json"]
+    memTools["Memory tools<br/>init/search/save run/save failure"]
+    arcBench["ARC benchmark tools<br/>benchmarks/arc_agi_2/run_solver.py<br/>benchmarks/arc_agi_2/score.py"]
+    research["Research automation<br/>autonomous_loop.py<br/>autonomous_improvement_loop.py<br/>patch_proposal_loop.py"]
+    akArtifacts["Harness evidence<br/>logs, artifacts, dashboards, verification"]
+    akTests["Regression tests<br/>tests/test_*.py"]
+
+    codexTask --> execute
+    codexPreflight --> execute
+    safety --> execute
+    safety --> research
+    memTools --> memory
+    arcBench --> evaluate
+    research --> refine
+    akTests --> verify
+    akArtifacts --> dashboard
+  end
+
+  subgraph Progress["Harness progress evidence from dashboards/progress_report.md"]
+    direction TB
+    pSearch["Search/research tools: 75%"]
+    pShell["Local shell tools: 100%"]
+    pMemory["Memory tools: 100%"]
+    pBenchmark["Benchmark tools: 100%"]
+    pEval["Evaluator: 100%"]
+    pRefiner["Refiner: 75%"]
+    pSafety["Safety tools: 75%"]
+    pDash["Dashboard: 100%"]
+  end
+
+  subgraph ARC["arc_dataset_library<br/>ARC dataset inventory and normalization"]
+    direction TB
+    arcDatasets["datasets<br/>ARC-AGI-1, ARC-AGI-2, ARC-GEN, MINI-ARC, etc."]
+    arcScripts["scripts<br/>normalize, dedupe, verifier, baseline report"]
+    arcNormalized["normalized<br/>indexes, summaries, verifier self-test"]
+    arcInventory["inventory JSON<br/>arc_dataset_inventory_clean.json"]
+
+    arcDatasets --> arcScripts --> arcNormalized
+    arcDatasets --> arcInventory
+  end
+
+  subgraph LLM["local_llm<br/>local ASI/ARC proposal engine"]
+    direction TB
+    llmScripts["scripts<br/>bootstrap, dataset build, inference, LoRA train, verify, benchmark"]
+    llmData["data + prompts + configs"]
+    llmModels["models + adapters<br/>runtime-heavy artifacts summarized"]
+    llmMetrics["artifacts + logs<br/>measured proposal metrics"]
+
+    llmData --> llmScripts --> llmModels --> llmMetrics
+  end
+
+  subgraph MCP["chatgpt-arch-mcp<br/>private Arch WSL MCP server"]
+    direction TB
+    mcpSrc["src/index.ts<br/>Express MCP server"]
+    mcpTools["MCP tools<br/>arch_check, arch_run"]
+    mcpBuild["dist + package.json<br/>TypeScript build/start scripts"]
+
+    mcpSrc --> mcpTools
+    mcpSrc --> mcpBuild
+  end
+
+  subgraph AS["assistant_sandbox<br/>auditable experiment scaffold"]
+    direction TB
+    sandboxPolicy["SANDBOX_POLICY.md<br/>boundaries and network rule"]
+    sandboxDirs["inbox, work, outputs, logs, tmp, tools, quarantine"]
+    sandboxScripts["PowerShell scripts<br/>bootstrap, enter, clean, test, ARC workspace"]
+
+    sandboxPolicy --> sandboxDirs
+    sandboxScripts --> sandboxDirs
+  end
+
+  tunnel["tools/tunnel-client<br/>secure MCP tunnel binary + zip"]
+  wsl["wsl/archlinux<br/>Arch Linux VHDX runtime"]
+  hatch["hatch_pet_runs<br/>generated pet run artifacts"]
+  rootTests["D:\\Sandbox\\tests<br/>root-level test area"]
+
+  root --> rootConfig
+  root --> AK
+  root --> ARC
+  root --> LLM
+  root --> MCP
+  root --> AS
+  root --> tunnel
+  root --> wsl
+  root --> hatch
+  root --> rootTests
+
+  ARC --> arcBench
+  LLM --> akArtifacts
+  MCP --> wsl
+  tunnel --> MCP
+  AS --> root
+  Progress --> dashboard
+
+  classDef repo fill:#eef6ff,stroke:#2463a6,stroke-width:1px,color:#111827
+  classDef evidence fill:#f3f4f6,stroke:#6b7280,stroke-width:1px,color:#111827
+  classDef safety fill:#fff7ed,stroke:#c2410c,stroke-width:1px,color:#111827
+  classDef data fill:#ecfdf5,stroke:#047857,stroke-width:1px,color:#111827
+  classDef runtime fill:#fdf2f8,stroke:#be185d,stroke-width:1px,color:#111827
+
+  class AK repo
+  class ARC,LLM,MCP,AS repo
+  class Progress,akArtifacts,dashboard,verify,akTests evidence
+  class safety,sandboxPolicy safety
+  class arcDatasets,arcNormalized,arcInventory,llmData,llmMetrics,memory data
+  class tunnel,wsl,hatch,llmModels runtime

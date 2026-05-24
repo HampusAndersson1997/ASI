@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-05-23T05:23:20+00:00",
+  "cuda_available": true,
+  "device_count": 1,
+  "devices": [
+    "NVIDIA GeForce RTX 5060 Ti"
+  ],
+  "path_has_wsl_lib": true,
+  "platform": "Linux-6.6.114.1-microsoft-standard-WSL2-x86_64-with-glibc2.43",
+  "python": "3.12.13 (main, May 10 2026, 19:30:01) [Clang 22.1.3 ]",
+  "status": "pass",
+  "torch_cuda_version": "12.8",
+  "torch_version": "2.11.0+cu128"
+}

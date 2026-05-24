@@ -1,0 +1,18 @@
+{
+  "adapter": {
+    "accepted_proposal_count": 1,
+    "valid_json_rate": 1.0
+  },
+  "adapter_metrics": "D:\\Sandbox\\local_llm\\artifacts\\verifier_selftest_metrics.json",
+  "base": {
+    "accepted_proposal_count": 1,
+    "valid_json_rate": 1.0
+  },
+  "base_metrics": "D:\\Sandbox\\local_llm\\artifacts\\verifier_selftest_metrics.json",
+  "created_at": "2026-05-23T05:15:38+00:00",
+  "improvement_rule": "Adapter is improved only if accepted_proposal_count increases by at least 1 and valid_json_rate does not decrease.",
+  "reasons": [
+    "no_required_metric_improvement"
+  ],
+  "result": "unchanged"
+}

@@ -1,0 +1,39 @@
+{
+  "accepted_proposal_count": 1,
+  "created_at": "2026-05-23T05:15:30+00:00",
+  "details": [
+    {
+      "id": "selftest_001",
+      "score": {
+        "accepted": true,
+        "missing_fields": [],
+        "parsed": {
+          "claim": "fact-classified proposal can be verified locally",
+          "evidence": [
+            "fact: this is a verifier self-test fixture"
+          ],
+          "executable_abstraction": "script: benchmark_proposals.py score validates required fields",
+          "expected_result": "accepted proposal count is 1",
+          "proposal": "score this JSON object with the benchmark verifier",
+          "risk_boundary": "allowed local fixture only; stop if parser fails",
+          "stop_condition": "stop on invalid JSON or missing field",
+          "verification_plan": [
+            "run score command",
+            "check accepted_proposal_count"
+          ]
+        },
+        "reasons": [],
+        "valid_json": true
+      }
+    }
+  ],
+  "prompt_ids": [
+    "selftest_001"
+  ],
+  "required_field_completion_rate": 1.0,
+  "responses_path": "D:\\Sandbox\\local_llm\\data\\verifier_selftest_responses.jsonl",
+  "status": "pass",
+  "total": 1,
+  "valid_json_count": 1,
+  "valid_json_rate": 1.0
+}

@@ -1,0 +1,166 @@
+{
+  "accepted_proposal_count": 2,
+  "created_at": "2026-05-23T06:01:51+00:00",
+  "details": [
+    {
+      "id": "asi_arc_001",
+      "score": {
+        "accepted": true,
+        "missing_fields": [],
+        "parsed": {
+          "claim": "An ARC-style object extraction system must separate facts, inferences, hypotheses, and verification to avoid hallucinated success claims.",
+          "evidence": [
+            "ARC task definitions require explicit fact extraction before inference.",
+            "Local execution requires verification before claiming success.",
+            "Separation of concerns prevents overclaiming without evidence."
+          ],
+          "executable_abstraction": {
+            "input": "raw_input",
+            "output": "facts",
+            "rule": "Extract only explicitly stated or directly observable properties.",
+            "stage": "fact_extraction"
+          },
+          "expected_result": "A verified, executable abstraction that separates facts, inferences, hypotheses, and verification.",
+          "proposal": "Implement a four-stage pipeline: 1) Fact extraction from raw input, 2) Inference generation with confidence scores, 3) Hypothesis validation against facts, 4) Verification before success claim.",
+          "risk_boundary": "Do not claim success without verified evidence. Do not infer beyond observed facts.",
+          "stop_condition": "Stop if verification fails or evidence is insufficient.",
+          "verification_plan": [
+            "Verify each inference against extracted facts.",
+            "Flag hypotheses as unverified until evidence is found.",
+            "Stop claiming success if verification fails."
+          ]
+        },
+        "reasons": [],
+        "valid_json": true
+      }
+    },
+    {
+      "id": "asi_arc_002",
+      "score": {
+        "accepted": false,
+        "missing_fields": [
+          "claim",
+          "evidence",
+          "proposal",
+          "executable_abstraction",
+          "verification_plan",
+          "risk_boundary",
+          "expected_result",
+          "stop_condition"
+        ],
+        "reasons": [
+          "no_parseable_json_object"
+        ],
+        "valid_json": false
+      }
+    },
+    {
+      "id": "asi_arc_003",
+      "score": {
+        "accepted": false,
+        "missing_fields": [],
+        "parsed": {
+          "claim": "The rule 'no improvement without measurement' requires a closed benchmark loop to validate proposals before they are accepted.",
+          "evidence": [
+            "No improvement without measurement"
+          ],
+          "executable_abstraction": "benchmark_loop(current_state, proposal) -> (new_state, accepted) where accepted = (new_state > current_state)",
+          "expected_result": "The benchmark loop will only accept proposals that have been measured to be better than the current state.",
+          "proposal": "Create a benchmark loop that measures the current state, applies a proposal, measures the new state, and only accepts the proposal if the new state is better than the current state.",
+          "risk_boundary": "Accepting a proposal without measurement can lead to incorrect conclusions about the effectiveness of the proposal.",
+          "stop_condition": "The benchmark loop stops when the proposal is accepted or rejected.",
+          "verification_plan": [
+            "Run the benchmark loop on a test proposal.",
+            "Verify that the proposal is only accepted if the new state is better than the current state.",
+            "Verify that the proposal is rejected if the new state is not better than the current state."
+          ]
+        },
+        "reasons": [
+          "evidence_not_classified",
+          "executable_abstraction_not_executable",
+          "risk_boundary_missing_boundary_terms"
+        ],
+        "valid_json": true
+      }
+    },
+    {
+      "id": "asi_arc_004",
+      "score": {
+        "accepted": true,
+        "missing_fields": [],
+        "parsed": {
+          "claim": "A memory record format must prevent unverified claims from being stored as facts.",
+          "evidence": [
+            "Unverified claims are prone to error, bias, and revision.",
+            "Storing unverified claims as facts risks downstream corruption of knowledge.",
+            "Fact-checking and verification are distinct from storage.",
+            "Memory systems should separate claims from their verification status."
+          ],
+          "executable_abstraction": "Create a memory record schema with fields: claim_text, claim_status, verification_source, and last_updated. Implement a validation gate that blocks 'fact' storage unless claim_status == 'verified'.",
+          "expected_result": "Unverified claims are stored as claims with status metadata, not as facts. Verified claims are stored as facts.",
+          "proposal": "Introduce a 'claim_status' field in memory records that can be 'verified', 'pending', 'rejected', or 'unverified'. Only records with status 'verified' are stored as facts; others are stored as claims with explicit status metadata.",
+          "risk_boundary": "Risk: False negatives (rejecting valid claims). Mitigation: Allow 'pending' status for claims awaiting verification, but block 'fact' storage until verification is complete.",
+          "stop_condition": "Stop when the validation gate successfully rejects unverified claims and accepts only verified claims.",
+          "verification_plan": [
+            "Define claim_status enum values.",
+            "Implement a validation gate that checks claim_status before storing as fact.",
+            "Run a test suite that attempts to store unverified claims as facts and verifies they are rejected.",
+            "Log all attempts to store unverified claims as facts.",
+            "Verify that only verified claims are stored as facts."
+          ]
+        },
+        "reasons": [],
+        "valid_json": true
+      }
+    },
+    {
+      "id": "asi_arc_005",
+      "score": {
+        "accepted": false,
+        "missing_fields": [],
+        "parsed": {
+          "claim": "A verifier can be constructed to compare base model output and LoRA adapter output on fixed ASI/ARC prompts.",
+          "evidence": [
+            "LoRA adapters are designed to modify base model behavior on specific tasks.",
+            "ASI/ARC benchmarks provide fixed prompts and expected outputs.",
+            "Diff-based verification is a standard approach for comparing model outputs."
+          ],
+          "executable_abstraction": "Run base model and LoRA adapter on fixed prompts, collect outputs, compare strings, and log results.",
+          "expected_result": "LoRA adapter should show improved accuracy on target tasks compared to base model.",
+          "proposal": "Create a script that runs the base model and LoRA adapter on a fixed set of ASI/ARC prompts, compares outputs, and reports exact matches, mismatches, and confidence scores.",
+          "risk_boundary": [
+            "LoRA adapter may degrade performance on unseen tasks.",
+            "Exact string matching may miss semantic differences.",
+            "Verification should be limited to fixed prompts to avoid overfitting."
+          ],
+          "stop_condition": "Stop if LoRA adapter performance drops below base model on fixed prompts.",
+          "verification_plan": [
+            "Run base model on fixed prompts.",
+            "Run LoRA adapter on same prompts.",
+            "Compare outputs and log differences.",
+            "Verify that LoRA adapter improves accuracy on target tasks."
+          ]
+        },
+        "reasons": [
+          "evidence_not_classified",
+          "executable_abstraction_not_executable"
+        ],
+        "valid_json": true
+      }
+    }
+  ],
+  "prompt_ids": [
+    "asi_arc_001",
+    "asi_arc_002",
+    "asi_arc_003",
+    "asi_arc_004",
+    "asi_arc_005"
+  ],
+  "required_field_completion_rate": 0.8,
+  "responses_path": "/mnt/d/Sandbox/local_llm/artifacts/adapter_responses.jsonl",
+  "status": "pass",
+  "total": 5,
+  "valid_json_count": 4,
+  "valid_json_rate": 0.8,
+  "verifier_version": "2026-05-23.risk-boundary-calibration"
+}

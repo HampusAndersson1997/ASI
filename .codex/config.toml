@@ -1,0 +1,6 @@
+[mcp_servers.ace3]
+args = [
+    "mcp",
+    "start",
+]
+command = 'C:\Users\J\AppData\Roaming\npm\ace.CMD'

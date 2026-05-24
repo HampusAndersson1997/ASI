@@ -1,0 +1,76 @@
+{
+  "engine_id": "asi_arc_lora_v1",
+  "model": {
+    "id": "Qwen/Qwen3.5-4B",
+    "source_url": "https://huggingface.co/Qwen/Qwen3.5-4B",
+    "requested_revision": "main",
+    "verified_page_at": "2026-05-23",
+    "page_facts_observed": {
+      "license": "apache-2.0",
+      "pipeline_tag": "image-text-to-text",
+      "note": "Model card states that latest transformers is required; this config records the observed source but does not claim local download."
+    }
+  },
+  "paths": {
+    "runtime_root_windows": "D:\\Sandbox\\local_llm",
+    "runtime_root_wsl": "/mnt/d/Sandbox/local_llm",
+    "adapter_output_windows": "D:\\Sandbox\\local_llm\\adapters\\asi_arc_lora_v1",
+    "adapter_output_wsl": "/mnt/d/Sandbox/local_llm/adapters/asi_arc_lora_v1",
+    "asi_kernel_logs_windows": "D:\\Sandbox\\asi_kernel\\logs",
+    "asi_kernel_artifacts_windows": "D:\\Sandbox\\asi_kernel\\artifacts"
+  },
+  "training": {
+    "method": "qlora",
+    "base_model_frozen": true,
+    "lora_r": 16,
+    "lora_alpha": 32,
+    "lora_dropout": 0.05,
+    "max_seq_length": 2048,
+    "epochs": 3,
+    "learning_rate": 0.0002,
+    "batch_size": 1,
+    "gradient_accumulation_steps": 4,
+    "seed": 115
+  },
+  "benchmark": {
+    "prompt_file": "D:\\Sandbox\\local_llm\\prompts\\benchmark_prompts.jsonl",
+    "required_fields": [
+      "claim",
+      "evidence",
+      "proposal",
+      "executable_abstraction",
+      "verification_plan",
+      "risk_boundary",
+      "expected_result",
+      "stop_condition"
+    ],
+    "result_labels": [
+      "improved",
+      "unchanged",
+      "regressed",
+      "failed",
+      "inconclusive"
+    ],
+    "improvement_rule": "Adapter is improved only if accepted_proposal_count increases by at least 1 and valid_json_rate does not decrease.",
+    "debug_comparison_modes": [
+      "base-vs-adapter",
+      "adapter-train-vs-heldout",
+      "adapter-vs-adapter",
+      "verifier-vs-verifier",
+      "checkpoint-series"
+    ],
+    "failure_taxonomy": [
+      "invalid JSON",
+      "truncated output",
+      "missing required field",
+      "unclassified evidence",
+      "non-executable abstraction",
+      "weak verification plan",
+      "weak risk boundary",
+      "adapter load failure",
+      "weight anomaly",
+      "prompt/data leakage",
+      "verifier bug"
+    ]
+  }
+}

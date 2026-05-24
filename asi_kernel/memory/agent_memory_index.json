@@ -1,0 +1,10 @@
+{
+  "purpose": "Local memory for bounded Codex CLI delegate outcomes.",
+  "records": {
+    "agent_runs": "D:\\Sandbox\\asi_kernel\\memory\\agent_runs.jsonl",
+    "failures": "D:\\Sandbox\\asi_kernel\\memory\\failures.jsonl",
+    "sqlite": "D:\\Sandbox\\asi_kernel\\memory\\asi_kernel.sqlite"
+  },
+  "schema_version": 1,
+  "updated_at": "2026-05-24T04:23:03.338972+00:00"
+}

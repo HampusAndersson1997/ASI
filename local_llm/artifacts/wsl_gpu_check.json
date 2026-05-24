@@ -1,0 +1,9 @@
+{
+  "checked_at": "2026-05-23T05:16:17+00:00",
+  "dev_dxg_exists": true,
+  "errors": [],
+  "nvidia_smi_path_exists": true,
+  "nvidia_smi_query": "NVIDIA GeForce RTX 5060 Ti, 16311 MiB, 595.71",
+  "path_has_wsl_lib": true,
+  "status": "pass"
+}

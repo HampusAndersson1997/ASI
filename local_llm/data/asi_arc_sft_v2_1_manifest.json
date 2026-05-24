@@ -1,0 +1,28 @@
+{
+  "base_dataset": "/mnt/d/Sandbox/local_llm/data/asi_arc_sft_v2.jsonl",
+  "base_dataset_sha256": "c2b9675edc4fcefbfb695a226556338c18a8bcb04c9c610211d4dc6303a25f17",
+  "base_record_count": 18,
+  "created_at": "2026-05-23T08:29:37+00:00",
+  "dataset": "/mnt/d/Sandbox/local_llm/data/asi_arc_sft_v2_1.jsonl",
+  "dataset_sha256": "cf3f78d1d7869be554f8cdfcaaff881ee6cb3760a9e9df48d8afdbc70308723a",
+  "record_count": 23,
+  "required_fields": [
+    "claim",
+    "evidence",
+    "proposal",
+    "executable_abstraction",
+    "verification_plan",
+    "risk_boundary",
+    "expected_result",
+    "stop_condition"
+  ],
+  "status": "pass",
+  "targeted_record_count": 5,
+  "targeted_topics": [
+    "strict_json_termination",
+    "lora_snapshot_anomaly",
+    "failure_classifier",
+    "verifier_calibration",
+    "non_overclaiming_summary"
+  ]
+}

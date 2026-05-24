@@ -1,0 +1,1 @@
+{"run_id":"arc-smoke-3fd409fd3265","timestamp":"2026-05-24T04:21:12.458449+00:00","suite":"smoke","solver":"identity","task_id":"smoke_identity_001","task_path":"D:\\Sandbox\\asi_kernel\\benchmarks\\arc_agi_2\\smoke_tasks\\smoke_identity_001.json","predictions":[{"output":[[2,0],[0,2]]}],"expected":[{"output":[[2,0],[0,2]]}]}

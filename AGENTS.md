@@ -13,6 +13,4 @@ A deeper `AGENTS.md` may refine local commands, conventions, and ownership. It m
 Apply instructions in this order:
 
 1. Platform and system safety requirements
-2. The user's explicit task
-3. The nearest applicable `AGENTS.md`
-4. This
+2.
